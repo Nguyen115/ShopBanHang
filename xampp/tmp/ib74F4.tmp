@@ -1,0 +1,3 @@
+2022-12-15 21:23:46 0xd4 Error in foreign key constraint of table `laravel_custom_auth`.`comment`:
+Create  table `laravel_custom_auth`.`comment` with foreign key constraint failed. Referenced table `laravel_custom_auth`.`product` not found in the data dictionary near ' foreign key (productID) references product(productID)
+)'.
